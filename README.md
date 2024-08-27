@@ -4,13 +4,6 @@
     <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pya3IzNWRqdXpyb2VnMWtleTU4NmNvNGdxenY4bnIyNmQ0bGcxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/B6wdZEDP2TXRkA83o5/giphy.webp' width='150px'>
 </div>
 
-### Social networks:
-![VK](https://img.shields.io/badge/Vkontakte-0277ff?style=for-the-badge&logo=VK)
-![Telegram](https://img.shields.io/badge/Telegram-fff?style=for-the-badge&logo=Telegram)
-![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=YouTube)
-![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X)
-![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin)
-
 ## I'm web developer
 
 ### Technologies and Languages:
@@ -23,6 +16,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;      
 </div>
 
+##
+
 ### Tools:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
@@ -30,5 +25,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
 </div>
+
+##
+
+### Social networks:
+![VK](https://img.shields.io/badge/Vkontakte-0277ff?style=for-the-badge&logo=VK)
+![Telegram](https://img.shields.io/badge/Telegram-fff?style=for-the-badge&logo=Telegram)
+![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=YouTube)
+![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X)
+![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin)
 
 </div>
