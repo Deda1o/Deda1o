@@ -6,6 +6,15 @@
 
 ### Technologies and Languages:
 
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;          
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp;      
+</div>
+
 JavaScript
 Html
 Css
@@ -14,7 +23,6 @@ Vue.js
 Go
 
 ### Tools:
-
 Visual Stuio Code
 Sublime Text
 Pycharm
@@ -23,7 +31,7 @@ Git
 Mac OS
 
 ### Social networks:
-![VK](https://img.shields.io/badge/VK-0277ff?style=for-the-badge&logo=VK)
+![VK](https://img.shields.io/badge/Vkontakte-0277ff?style=for-the-badge&logo=VK)
 ![Telegram](https://img.shields.io/badge/Telegram-fff?style=for-the-badge&logo=Telegram)
 ![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=YouTube)
 ![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X)
