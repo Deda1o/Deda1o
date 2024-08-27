@@ -1,4 +1,6 @@
 <div align='center'>
+
+<div>
     <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pya3IzNWRqdXpyb2VnMWtleTU4NmNvNGdxenY4bnIyNmQ0bGcxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/B6wdZEDP2TXRkA83o5/giphy.webp' width='150px'>
 </div>
 
@@ -28,3 +30,5 @@
 ![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=YouTube)
 ![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X)
 ![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin)
+
+</div>
